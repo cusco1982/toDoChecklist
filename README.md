@@ -1,20 +1,16 @@
 To Do Checklist application, using 
 - Next v13.4.19
 - React v18.2
+- SQLite
+- Prisma
 - typescript
-- ESLint
-- Tailwaind CSS
+
 - src/ directory
 - App router
+- ESLint
+- Tailwaind CSS
 
-devDependencies
-- prisma (database)
-
-
-Youtube reference: https://github.com/WebDevSimplified/next-13-todo-list
-
-
-
+* utilizes Next13's routing & the new experimental feature "use server" & "use client"
 
 
 
